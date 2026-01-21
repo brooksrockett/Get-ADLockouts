@@ -171,15 +171,3 @@ if ($results) {
 ## Contributing
 
 Contributions, issues, and feature requests are welcome. Please open a GitHub issue or submit a pull request. Follow the project’s coding style and include tests/examples where appropriate.
-
-## Change Log
-
-See CHANGELOG.md (if present) or GitHub releases for details.
-
-## License
-
-Specify your preferred license, e.g., MIT License. Update the repository license file accordingly.
-
-## Support
-
-If you want the README tailored to reflect the actual script parameters and examples exactly, grant repository access for a quick scan or paste the main script/module file here and I’ll update the README to match precisely.
